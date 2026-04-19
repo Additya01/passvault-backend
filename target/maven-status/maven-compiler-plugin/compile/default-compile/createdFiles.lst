@@ -1,0 +1,4 @@
+com\passvault\repository\PasswordRepository.class
+com\passvault\controller\PasswordController.class
+com\passvault\PassVaultApplication.class
+com\passvault\model\PasswordEntry.class
